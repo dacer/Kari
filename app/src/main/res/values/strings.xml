@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kari</string>
+    <string name="network_error_no_network">No network connection available</string>
+    <string name="google_play_error_miss_service">This app requires Google Play Services. Please install Google Play Services on your device and relaunch this app</string>
+    <string name="google_play_error_not_available">Google Play Services not available</string>
+    <string name="google_play_error_no_permission">Cannot get Google account info without permission</string>
+</resources>
